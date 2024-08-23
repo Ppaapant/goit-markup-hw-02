@@ -1,5 +1,18 @@
+body{
+    font-family:"Roboto" sans-serif;
+    background-color:#FFFFFF;
+}
 .Page-title{
-text-indent:30%;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size:18px;
+    line-height:1.17px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+}
+.Studio{
+    color: #2e2f42;
 }
 
 h1{
@@ -9,12 +22,97 @@ h1{
     width:496px;
     height:120px;
     letter-spacing: 2%;
-    text-align:center;
+}
+.first{
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.first:hover{
+    color:#404bbf;
+}
+.first:focus{
+    color:#404bbf;
 }
 
-.button{
-width:169px;
-height:56px;
-font-family:"Roboto" sans-serif;
-color:#FFFFFF;
+.second{
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.second:hover{
+    color:#404bbf;
+}
+
+.second:focus{
+    color:#404bbf;
+}
+
+.third{
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.third:hover{
+    color:#404bbf;
+}
+.third:focus{
+    color:#404bbf;
+}
+
+.address{
+    font-style: normal;
+
+}
+
+.add{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+
+.add:hover{
+    color:#404bbf;
+}
+
+.add:focus{
+    color:#404bbf;
+}
+
+.number{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+
+.number:hover{
+    color:#404bbf;
+}
+
+.number:focus{
+    color:#404bbf;
+}
+
+.str{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+
+.Par{
+    line-height: 1.5;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
 }
