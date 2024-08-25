@@ -70,7 +70,7 @@ h1{
     color:#404bbf;
 }
 
-.sect1{
+.sect{
     background-color:#2e2f42;
 }
 
@@ -114,4 +114,38 @@ h1{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
+}
+
+.set{
+    background-color: #F4F4FD;
+}
+
+.team{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42 ;
+}
+
+.goteam,
+.goteamtwo,
+.goteamthree,
+.goteamfour{
+    background-color: #FFFFFF;
+}
+
+.teamgo{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+
+.parag{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
