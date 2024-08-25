@@ -22,35 +22,8 @@ h1{
     height:120px;
     letter-spacing: 2%;
 }
-.first{
-    font-weight: 500;
-    line-height: 1.5;
-    font-size: 16px;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.first:hover{
-    color:#404bbf;
-}
-.first:focus{
-    color:#404bbf;
-}
-
-.second{
-    font-weight: 500;
-    line-height: 1.5;
-    font-size: 16px;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.second:hover{
-    color:#404bbf;
-}
-
-.second:focus{
-    color:#404bbf;
-}
-
+.first,
+.second,
 .third{
     font-weight: 500;
     line-height: 1.5;
@@ -58,9 +31,13 @@ h1{
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
+.first:hover,
+.second:hover,
 .third:hover{
     color:#404bbf;
 }
+.first:focus,
+.second:focus,
 .third:focus{
     color:#404bbf;
 }
@@ -70,21 +47,7 @@ h1{
 
 }
 
-.add{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
-}
-
-.add:hover{
-    color:#404bbf;
-}
-
-.add:focus{
-    color:#404bbf;
-}
-
+.add,
 .number{
     font-size: 16px;
     line-height: 1.5;
@@ -92,10 +55,12 @@ h1{
     color:#434455;
 }
 
+.add:hover,
 .number:hover{
     color:#404bbf;
 }
 
+.add:focus,
 .number:focus{
     color:#404bbf;
 }
@@ -108,7 +73,7 @@ h1{
     color:#2e2f42;
 }
 
-.Par{
+.par{
     line-height: 1.5;
     font-size: 16px;
     line-height: 1.5;
