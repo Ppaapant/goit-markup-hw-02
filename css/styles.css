@@ -165,7 +165,7 @@ h1{
 .payment,
 .bank{
     font-weight: 500;
-    font-size: 20px;
+    font-size: 36px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
@@ -178,4 +178,5 @@ h1{
 .papp{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color:#434455;
 }
