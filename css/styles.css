@@ -52,7 +52,7 @@ h1{
     font-style: normal;
 }
 
-.add,
+
 .number{
     font-size: 16px;
     line-height: 1.5;
@@ -149,3 +149,34 @@ h1{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.port{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
+}
+.online,
+.screen,
+.taxi,
+.medita,
+.payment,
+.bank{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.cour,
+.desig,
+.keting,
+.appp,
+.mark,
+.papp{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
