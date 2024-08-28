@@ -184,3 +184,24 @@ h1{
     color:#434455;
     font-size: 16px;
 }
+
+.footer{
+    background-color:#2e2f42;
+
+}
+
+.logotwo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size:18px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+    line-height: 1.17;
+}
+
+.fotit{
+    line-height: 1.5;
+    color:#F4F4FD;
+    letter-spacing: 0.02em;
+}
