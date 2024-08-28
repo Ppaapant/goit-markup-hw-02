@@ -26,9 +26,7 @@ h1{
     letter-spacing: 2%;
 }
 
-.first,
-.second,
-.third{
+.first{
     font-weight: 500;
     line-height: 1.5;
     font-size: 16px;
